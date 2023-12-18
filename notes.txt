@@ -1,0 +1,8 @@
+** modificateur final **
+
+* Le mot clé  final,
+    - devant une classe, signifie qu'elle ne peut être étendue (comme String),
+    - devant une méthode, signifie qu'elle ne pout être rédéfinie,
+
+* 'final' devant une variable vuet dire qu'elle ne peut être initialisée qu'une suele fois, et donc ne peut plus être utilisée;
+toutefois, si elle reférence un objet, l'objet peut tout de même être modifié.

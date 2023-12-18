@@ -1,0 +1,1 @@
+Pour executer c fichier .ipynb de test, il faudra d'abord installer jupyter notenook sur votre plateforme et le noyau java
